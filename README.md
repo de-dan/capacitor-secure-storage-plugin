@@ -126,8 +126,7 @@ Up to version v0.4.0 there was standard keychain used. Since v0.5.0 there is sep
 
 ### Android
 
-On Android it is implemented by AndroidKeyStore and SharedPreferences. Source: [Apriorit](https://www.apriorit.com/dev-blog/4
-2-using-androidkeystore)
+On Android it is implemented by AndroidKeyStore and SharedPreferences. Source: [Apriorit](https://www.apriorit.com/dev-blog/432-using-androidkeystore)
 
 ##### Warning
 
