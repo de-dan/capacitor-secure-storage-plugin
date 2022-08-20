@@ -4,10 +4,16 @@ Capacitor plugin for storing string values securly on iOS and Android.
 
 ## How to install
 
-For Capacitor v3
+For Capacitor v4
 
 ```
 npm install capacitor-secure-storage-plugin
+```
+
+For Capacitor v3 - install with fixed version 0.7.1
+
+```
+npm install capacitor-secure-storage-plugin@0.7.1
 ```
 
 For Capacitor v2 - install with fixed version 0.5.1
@@ -18,7 +24,7 @@ npm install capacitor-secure-storage-plugin@0.5.1
 
 ## Usage
 
-For Capacitor v3
+For Capacitor v3 & v4
 
 In a component where you want to use this plugin add to or modify imports:
 
@@ -120,7 +126,8 @@ Up to version v0.4.0 there was standard keychain used. Since v0.5.0 there is sep
 
 ### Android
 
-On Android it is implemented by AndroidKeyStore and SharedPreferences. Source: [Apriorit](https://www.apriorit.com/dev-blog/432-using-androidkeystore)
+On Android it is implemented by AndroidKeyStore and SharedPreferences. Source: [Apriorit](https://www.apriorit.com/dev-blog/4
+2-using-androidkeystore)
 
 ##### Warning
 
